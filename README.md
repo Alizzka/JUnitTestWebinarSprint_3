@@ -1,5 +1,5 @@
-## Проект-пример Спринта 3
+## Webinar lesson of a unit test, sprint 3
 
-Unit-тесты на методы класса `Triangle`.
+Unit tests for class methods `Triangle`.
 
-Git тренажер: https://learngitbranching.js.org
+Git trainer: https://learngitbranching.js.org
